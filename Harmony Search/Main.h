@@ -1,0 +1,22 @@
+#pragma once
+//#include <stdlib.h>
+//#include <time.h>
+//#include <vector>
+//#include <iomanip>
+//#include <cmath>
+//#include <limits>
+//#include "MergeInstruments.h"
+//#include "CreateInstruments.h"
+//#include "Note.h"
+//#include "Instrument.h"
+//#include "GeneFamilies.h"
+//#include "CommonIntervals.h"
+//#include "FamiliesToNotes.h"
+//#include "MyIO.h"
+//#include "Harmony.h"
+//#include "HM.h"
+//#include "HS.h"
+//#include "RunHS.h"
+//#include "Logs.h"
+//#include "Assets.h"
+

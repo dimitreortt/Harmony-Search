@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Arquivos de Origem">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Recurso">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Genomes\baphi">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Buchnera aphidicola APS">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\esche">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Escherichia coli K12">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Haemophilus influenzae Rd">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Pasteurella multocida Pm70">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Pseudomonas aeruginosa PA01">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Salmonella typhimurium LT2">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Vibrio cholerae">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Wigglesworthia glossinidia brevipalpis">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Xanthomonas axonopodis pv. citri 306">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Xanthomonas campestris">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Xylella fastidiosa 9a5c">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Yersinia pestis CO_92">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+    <None Include="..\Genomes\Yersinia pestis KIM5 P12">
+      <Filter>Arquivos de Origem</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="TestShifts.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\CreateInstruments.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\CommonIntervals.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\MyIO.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\HM.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\Instrument.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\GeneFamilies.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\HS.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\Harmony.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\Note.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\FamiliesToNotes.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeInfo.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="NextMerge.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="TestMergeInstruments.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSmallests.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="Approaches.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\MergeInstruments.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\Logs.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\Assets.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Harmony Search\ModelBehavior.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+    <ClCompile Include="Extract.cpp">
+      <Filter>Arquivos de Recurso</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TestMergeInstruments.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeInfo.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="NextMerge.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Approaches.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeSmallests.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
