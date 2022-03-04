@@ -1,4 +1,4 @@
-#### This project was developed by Dimitre Ortt and the teacher Bianca Dantas from FACOM - UFMS, Campo Grande - MS, Brasil. And it served as my Bachelor Degree conclusion work, presented in August 2020.
+#### This project was developed by Dimitre Ortt and the teacher Bianca Dantas from FACOM - UFMS, Campo Grande - MS, Brasil. It served as my Bachelor Degree conclusion work, presented in August 2020.
 
 ## Harmony-Search
 
